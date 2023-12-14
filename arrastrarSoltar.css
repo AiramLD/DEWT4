@@ -17,5 +17,9 @@
 
 .element {
   background-color: aquamarine;
-  padding: 10px;
+  margin: 10px;
+}
+
+.selected {
+  background-color: yellow;
 }
